@@ -1,0 +1,27 @@
+{
+  "name": "node-boilerplate",
+  "version": "1.0.0",
+  "description": "A node project boilerplate.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L4brax/node-boilerplate.git"
+  },
+  "author": "Hess Antoine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L4brax/node-boilerplate/issues"
+  },
+  "homepage": "https://github.com/L4brax/node-boilerplate#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
